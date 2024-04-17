@@ -1,0 +1,19 @@
+@use 'variables' as v;
+
+@mixin phone {
+    @media (max-width: 640px) {
+        @content;
+    }
+}
+
+@mixin ipadMini {
+    @media (max-width: 820px) {
+        @content;
+    }
+}
+
+@mixin ipadPro {
+    @media (max-width: 1024px) {
+        @content;
+    }
+}
