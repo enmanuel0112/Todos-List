@@ -1,3 +1,6 @@
+![image](https://github.com/enmanuel0112/Todos-List/assets/76906650/71955f07-2155-4aae-bf75-f7f23176f4ff)
+
+
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
 ¡Hola, Platzinauta!
