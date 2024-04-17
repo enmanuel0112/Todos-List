@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/enmanuel0112/Todos-List/static/css/main.884e64f2.css",
+    "main.js": "/enmanuel0112/Todos-List/static/js/main.f953f13b.js",
+    "static/media/undraw.svg": "/enmanuel0112/Todos-List/static/media/undraw.68be8d85eac1f6cdb7aab66fe4ea162b.svg",
+    "index.html": "/enmanuel0112/Todos-List/index.html",
+    "main.884e64f2.css.map": "/enmanuel0112/Todos-List/static/css/main.884e64f2.css.map",
+    "main.f953f13b.js.map": "/enmanuel0112/Todos-List/static/js/main.f953f13b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.884e64f2.css",
+    "static/js/main.f953f13b.js"
+  ]
+}
